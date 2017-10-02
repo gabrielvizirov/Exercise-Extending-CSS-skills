@@ -1,0 +1,16 @@
+Exercise: Extending your CSS skillls
+15 JUNE 2017 by Jason Brewer
+In this exercise you're going to use CSS combinators, grouping and specificity to style some elements.
+
+Part 1
+
+Download the provided HTML template
+Make the <li> decedents green. (Be mindful of the order of your cascading stylesheet)
+Then make all immediate <li> children of the parent red. 
+Only the nested list items should be green now.
+At the bottom of the of the HTML page there is a <div> with a class of parent. 
+Using child and descendent selectors make the first and second <h2> tags two different colors of your choice. (Use the Specificity point system).
+Part 2
+
+Using ONE CSS style rule, apply the same text color to all <h1> <h3> <h4>and the <p> class.
+Using specificity with the <h3> tag, create another style rule and change the color of the <h3> text.
